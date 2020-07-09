@@ -19,16 +19,6 @@ and good beers 🍺
 - [BananaCode](https://bananacode.co/)
 - [Nw Ideas](https://www.leftfieldlabs.com)
 
-## Another cool things that I enjoy
-
-- 💚 Open Sourcer
-- 👨‍🔬 Science
-- 📜 History
-- 🦄 Chill Out
-- 😺 Smile
-- 🍻 More beers with good friends
-- 👨‍💻 More programming
-
 ## You can found me in
 
 - [Facebook](https://www.facebook.com/profile.php?id=100006145338073)

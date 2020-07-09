@@ -14,8 +14,8 @@ and good beers 🍺
 
 ## Companies i have worked with
 
-- [Oktara 📍](https://oktara.com/)
-- [Blockmatic 📍](https://blockmatic.io/)
+- [📍 Oktara ](https://oktara.com/)
+- [📍 Blockmatic ](https://blockmatic.io/)
 - [BananaCode](https://bananacode.co/)
 - [Nw Ideas](https://www.leftfieldlabs.com)
 

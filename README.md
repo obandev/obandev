@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi 👋 👨‍💻
 
-<!--
-**pabloobandodev/pabloobandodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer**, a simple guy who enjoys programming
+and good beers 🍺
 
-Here are some ideas to get you started:
+## Lover of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💛 JavaScript
+- 💙 React Js | Native
+- 💚 Node Js
+- ❤️ GraphQL
+- 🖤 Next Js
+- 💜 Gatsby
+
+## Another cool things that I enjoy
+
+- 💚 Open Sourcer
+- 👨‍🔬 Science
+- 📜 History
+- 🦄 Chill Out
+- 😺 Smile
+- 🍻 More beers with good friends
+- 👨‍💻 More programming
+
+## Companies i have worked with
+
+- [Blockmatic](https://blockmatic.io/)
+- [BananaCode](https://bananacode.co/)
+- [Nw Ideas](https://www.leftfieldlabs.com)
+- [Oktara](https://oktara.com/)
+
+## You can found me in
+
+- [Facebook](https://www.facebook.com/profile.php?id=100006145338073)
+- [LinkedIn](https://www.linkedin.com/in/pabloobandodev)
+- [Instagram](https://www.instagram.com/pabloobando.dev/)
+- [Twitter](https://www.twitter.com/pabloobandodev/)

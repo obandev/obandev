@@ -12,6 +12,13 @@ and good beers 🍺
 - 🖤 Next Js
 - 💜 Gatsby
 
+## Companies i have worked with
+
+- [Blockmatic](https://blockmatic.io/)
+- [BananaCode](https://bananacode.co/)
+- [Nw Ideas](https://www.leftfieldlabs.com)
+- [Oktara](https://oktara.com/)
+
 ## Another cool things that I enjoy
 
 - 💚 Open Sourcer
@@ -21,13 +28,6 @@ and good beers 🍺
 - 😺 Smile
 - 🍻 More beers with good friends
 - 👨‍💻 More programming
-
-## Companies i have worked with
-
-- [Blockmatic](https://blockmatic.io/)
-- [BananaCode](https://bananacode.co/)
-- [Nw Ideas](https://www.leftfieldlabs.com)
-- [Oktara](https://oktara.com/)
 
 ## You can found me in
 

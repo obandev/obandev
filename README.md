@@ -1,21 +1,11 @@
 # Hi 👋 👨‍💻
 
-I'm a **Software Developer**, a simple guy who enjoys programming
-and good beers 🍺
-
-## Lover of
-
-- 💛 JavaScript
-- 💙 React Js | Native
-- 💚 Node Js
-- ❤️ GraphQL
-- 🖤 Next Js
-- 💜 Gatsby
+I'm a **Software Developer**, a simple guy who enjoys programming (mainly react js | native, next js, node js, graphql) and good beers 🍺
 
 ## Companies i have worked with
 
-- [📍 Oktara ](https://oktara.com/)
-- [📍 Blockmatic ](https://blockmatic.io/)
+- [Oktara ](https://oktara.com/)
+- [Blockmatic ](https://blockmatic.io/)
 - [BananaCode](https://bananacode.co/)
 - [Nw Ideas](https://www.leftfieldlabs.com)
 
@@ -23,5 +13,4 @@ and good beers 🍺
 
 - [Facebook](https://www.facebook.com/profile.php?id=100006145338073)
 - [LinkedIn](https://www.linkedin.com/in/pabloobandodev)
-- [Instagram](https://www.instagram.com/pabloobando.dev/)
 - [Twitter](https://www.twitter.com/pabloobandodev/)

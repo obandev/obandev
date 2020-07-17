@@ -1,6 +1,6 @@
 # Hi 👋 👨‍💻
 
-I'm a **Software Developer**, a simple guy who enjoys programming (mainly react js | native, next js, node js, graphql) and good beers 🍺
+I'm a **Software Developer** who enjoys programming (mainly react js | native, next js, node js, graphql) and good beers 🍺
 
 ## Companies i have worked with
 

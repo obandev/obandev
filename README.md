@@ -1,17 +1,12 @@
-# Hi 👋 👨‍💻
+# Hi, I'm Pablo Obando 👋
 
-I'm a **Software Developer** who enjoys programming (mainly react js | native, next js, node js, graphql) and good beers 🍺
+I'm Software Engineer with strong experience in mobile and web development focused on creating applications with good practices, algorithms, testing, and design patterns that create high-quality software.
 
-## Companies i have worked with
+Things I do:
 
-- [Oktara ](https://oktara.com/)
-- [Blockmatic ](https://blockmatic.io/)
-- [BananaCode](https://bananacode.co/)
-- [Nw Ideas](https://www.leftfieldlabs.com)
+- 👨🏻‍💻   Fullstack hands-on programming.
+- 🧗🏻‍♂️   Leading and coaching development teams.
 
-## You can found me in
+Spoken languages: English, Spanish.
 
-- [My website](https://pabloobando.dev/)
-- [Facebook](https://www.facebook.com/profile.php?id=100006145338073)
-- [LinkedIn](https://www.linkedin.com/in/pabloobandodev)
-- [Twitter](https://www.twitter.com/pabloobandodev/)
+You can learn more about me on my website https://pabloobando.dev

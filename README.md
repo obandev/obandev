@@ -1,7 +1,7 @@
 # Hi, I'm Pablo Obando 👋
 
 
-I'm Pablo a Costa Rican software engineer with over 5 years of experience as a Full Stack Developer. I have expertise in developing web and mobile applications using JavaScript frameworks like ReactJS and VueJS, as well as building JamStack websites with NextJS, Gatsby, and Nuxt. I have experience in back-end development using NodeJS and GraphQL, creating and integrating APIs. I'm team leader with experience in managing up to 6 developers. 
+I'm Pablo a Costa Rican software engineer with over 5 years of experience as a Full Stack Developer. I have expertise in developing web and mobile applications using JavaScript frameworks like ReactJS and VueJS, as well as building JamStack websites with NextJS, Gatsby, and Nuxt. I have experience in back-end development using NodeJS and GraphQL, creating and integrating APIs. 
 
 
 

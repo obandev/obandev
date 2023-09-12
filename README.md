@@ -1,25 +1,19 @@
-# Hi, I'm Pablo 👋
+# Hi, I'm Pablo Obando
 
+I'm a passionate full-stack software developer with 6+ years of experience developing web pages and apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
 
-With 6+ years of experience, I'm a passionate software developer focused on
-improving user experiences and ensuring top-notch UI code quality in all
-project-related processes.
+I help companies develop software products and make technical decisions, taking ideas from conception to production, and successful execution.
 
-#### Technologies 👾
-##### High Proeficiency 🚀
+Typescript, NodeJS, Databases, Docker, Cloud, GraphQL, React, React Native
 
-- next.js
-- typescript
-- react.js
-- node.js
-- graphQL
+Learn more on my website [obandev.io](https://obandev.io)
 
-<hr />
+---
 
-<p align="center" style="font-size: 9em">
-  REACH ME AT 
-</p>
-<p align="center">
-  <a href="https://twitter.com/obandev_io/"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/obandev/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/></a>
-</p>
+[![Twitter: obandev](https://img.shields.io/twitter/follow/obandev_io?style=social)](https://twitter.com/obandev_io)
+[![Linkedin: obandev](https://img.shields.io/badge/-obandev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obandev/)](https://www.linkedin.com/in/obandev/)
+[![GitHub obandev](https://img.shields.io/github/followers/gaboesquivel?label=follow&style=social)](https://github.com/obandev)
+
+```bash
+npx obandev
+```

@@ -1,0 +1,13 @@
+{
+  "name": "obandev",
+  "version": "0.0.1",
+  "description": "Pablo Obando - Software Engineer",
+  "author": "Pablo Obando",
+  "main": "./index.json",
+  "bin": "./index.js",
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}

@@ -1,12 +1,12 @@
 # Hi, I'm Pablo Obando
 
-I'm a passionate full-stack software developer with 6+ years of experience developing web pages and apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
+I'm a passionate full stack developer with 6 years of experience developing web pages and mobile apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
 
-I help companies develop software products and make technical decisions, taking ideas from conception to production, and successful execution.
+I collaborate with teams to drive software product development, guiding technical decisions from concept to production, ensuring successful project execution.
 
-Typescript, NodeJS, Databases, Docker, Cloud, GraphQL, React, React Native
+My favorite technologies, in which I have extensive experience, are typescript, react, tailwind, graphql, mongodb, postgres, and node. If these technologies resonate with your expertise or interests, there's a strong possibility we can find common ground for work.
 
-Learn more on my website [obandev.io](https://obandev.io)
+Learn more about me on my website [obandev.io](https://obandev.io)
 
 ---
 

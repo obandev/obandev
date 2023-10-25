@@ -1,8 +1,8 @@
-# Hi, I'm Pablo Obando
+<h1 style="color: #c792e8;">Hey, I'm Pablo.</h1>
 
-I'm a passionate full stack developer with 6 years of experience developing web pages and mobile apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
+I'm a passionate full stack developer from SJ, Costa Rica, with 6 years of experience developing web pages and mobile apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
 
-I collaborate with teams to drive software product development, guiding technical decisions from concept to production, ensuring successful project execution.
+I collaborate with teams to drive software product development, guiding technical decisions from concept to production, and ensuring successful project execution.
 
 My favorite technologies, in which I have extensive experience, are typescript, react, tailwind, graphql, mongodb, postgres, and node. If these technologies resonate with your expertise or interests, there's a strong possibility we can find common ground for work.
 

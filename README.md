@@ -1,6 +1,6 @@
 <h1 style="color: #c792e8;">Hey, I'm Pablo.</h1>
 
-I'm a passionate full stack developer from SJ, Costa Rica, with 6 years of experience developing web pages and mobile apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
+I'm a passionate full stack developer from SJ, Costa Rica, with more than 7 years of experience developing web pages and mobile apps, focused on improving user experiences and ensuring top-notch UI code quality in all project-related processes.
 
 I collaborate with teams to drive software product development, guiding technical decisions from concept to production, and ensuring successful project execution.
 

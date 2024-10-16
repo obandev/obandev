@@ -6,7 +6,6 @@ I collaborate with teams to drive software product development, guiding technica
 
 My favorite technologies, in which I have extensive experience, are typescript, react, tailwind, graphql, mongodb, postgres, and node. If these technologies resonate with your expertise or interests, there's a strong possibility we can find common ground for work.
 
-Learn more about me on my website [obandev.io](https://obandev.io)
 
 ---
 
